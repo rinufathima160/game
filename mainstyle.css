@@ -1,0 +1,24 @@
+.youname{
+  color: white;
+  font-weight: 700;
+  margin-top: 70px;
+  text-align: center;
+  font-style: italic;
+}
+#resultText{
+  text-align: center;
+  margin-top: 30px;
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.choice:hover{
+  transform: scale(1.07);
+    transition: transform 0.3s ease-in-out;
+}
+
+.choice{
+  border-radius: 20px;
+}
